@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:search="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        search:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/search_hint"
+        android:icon="@drawable/ic_search_black_24dp"
+        search:showAsAction="always"
+        search:actionLayout="@layout/simple_search_view_item"/>
+
+</menu>

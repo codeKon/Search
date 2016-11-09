@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#C0C0C0</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="plum1">#FFBBFF</color>
+    <color name="plum2">#EEAEEE</color>
+    <color name="plum3">#CD96CD</color>
+    <color name="plum4">#8B668B</color>
+
+</resources>
